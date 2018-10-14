@@ -1,0 +1,12 @@
+{
+    "name": "contact-form-api",
+    "version": "1.0.0",
+    "description": "Contact Form API",
+    "title": "Contact Form API",
+    "url": "https://contact-form-radhi-nasser.herokuapp.com",
+    "sampleUrl": "https://contact-form-radhi-nasser.herokuapp.com",
+    "template": {
+        "withCompare": true,
+        "withGenerator": true
+    }
+}

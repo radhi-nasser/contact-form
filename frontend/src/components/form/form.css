@@ -1,0 +1,11 @@
+.md-form {
+    margin-top: 2rem;
+}
+
+.error {
+    margin: -20px 0 10px 2.5em;
+    width: calc(100% - 2.5rem);
+    margin-top: -20px;
+    font-size: 80%;
+    color: #dc3545;
+}
